@@ -1,0 +1,32 @@
+.colors-container {
+    margin-top: 7px;
+    
+  }
+
+  .colors-container .title2 {
+    color: #9F9F9F;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .colors-container .color-options {
+    display: flex;
+    gap: 16px;
+   
+    
+  }
+  .colors-container button {
+    border: none;
+    font-size: 13px;
+    font-weight: 400;
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+    text-indent: 100%;
+    white-space: nowrap;
+    color:#fff;
+    
+  }
+  .colors-container .selected {
+    border: 2px solid #fff;
+    outline: 1px solid #dad5d5;
+  }

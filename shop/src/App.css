@@ -1,0 +1,8 @@
+.body{
+    width: calc(100vw - 120px);
+    max-width: 1440px;
+    margin:0 auto;
+    /* padding: 0 clamp(0.625rem, -5.7857rem + 13.373vw, 6.25rem); */
+    font-family: 'Poppins', sans-serif;
+   
+}
